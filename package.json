@@ -1,0 +1,17 @@
+{
+  "name": "hardinkaam-payment-backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "razorpay": "^2.9.4"
+  }
+}
