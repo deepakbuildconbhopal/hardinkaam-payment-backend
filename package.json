@@ -4,6 +4,7 @@
   "private": true,
   "main": "index.js",
   "scripts": {
+    "build": "node --check index.js",
     "start": "node index.js"
   },
   "engines": {
