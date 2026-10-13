@@ -1,9 +1,11 @@
+
 {
   "name": "hardinkaam-payment-backend",
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
   "scripts": {
+    "build": "node --check index.js",
     "start": "node index.js"
   },
   "engines": {
